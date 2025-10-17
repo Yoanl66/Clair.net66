@@ -1,0 +1,4 @@
+User-agent: \*
+Allow: /
+
+Sitemap: https://yoanl66.github.io/Clair.net66/sitemap.xml
